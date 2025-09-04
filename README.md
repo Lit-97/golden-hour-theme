@@ -18,21 +18,21 @@ Golden Hour Café is a fully responsive WordPress theme designed to deliver a cl
 
 Key features include:
 
-• Custom WordPress Theme – Built from scratch with modular PHP templates for headers, footers, and content sections.
+- Custom WordPress Theme – Built from scratch with modular PHP templates for headers, footers, and content sections.
 
-• Responsive Design – Mobile-friendly layouts with Bootstrap for tablets, phones, and desktops.
+- Responsive Design – Mobile-friendly layouts with Bootstrap for tablets, phones, and desktops.
 
-• Menu/Services Section – Organized and visually appealing menu for café offerings.
+- Menu/Services Section – Organized and visually appealing menu for café offerings.
 
-• Contact & Location – Functional contact forms and embedded Google Maps for directions.
+- Contact & Location – Functional contact forms and embedded Google Maps for directions.
 
-• Blog/News Section – Easily add posts or updates using WordPress CMS.
+- Blog/News Section – Easily add posts or updates using WordPress CMS.
 
-• Reusable Widgets & Components – Custom PHP widgets for flexible content placement.
+- Reusable Widgets & Components – Custom PHP widgets for flexible content placement.
 
-• Structured HTML & CSS – Clean, maintainable, and scalable code.
+- Structured HTML & CSS – Clean, maintainable, and scalable code.
 
-• Cross-Browser Compatibility – Tested to work across major browsers and screen sizes.
+- Cross-Browser Compatibility – Tested to work across major browsers and screen sizes.
 
 
 ### Screenshot
