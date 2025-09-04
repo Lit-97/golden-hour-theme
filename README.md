@@ -37,7 +37,7 @@ Key features include:
 
 ### Screenshot
 
-![Screenshot of Salon Luxe](./img/GHSS.png)
+![Screenshot of The Golden Hour](./img/GHSS.png)
 
 
 ### Links
